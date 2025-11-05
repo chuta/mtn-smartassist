@@ -1,0 +1,60 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How do I check my data balance?",
+      "answer": "To check your data balance, simply dial *131# and follow the prompts. You can also use the MyMTN app for real-time balance updates.",
+      "category": "data_plans",
+      "keywords": ["data", "balance", "check", "remaining"]
+    },
+    {
+      "id": 2,
+      "question": "What data plans are available?",
+      "answer": "MTN offers various data plans including daily, weekly, and monthly bundles. Popular options include: 1GB for ₦500 (daily), 6GB for ₦1,500 (weekly), and 40GB for ₦10,000 (monthly). Dial *131# to subscribe.",
+      "category": "data_plans",
+      "keywords": ["data", "plans", "bundles", "packages", "subscribe"]
+    },
+    {
+      "id": 3,
+      "question": "How do I recharge my line?",
+      "answer": "You can recharge your MTN line through: 1) Scratch cards - dial *555*PIN# 2) Bank USSD codes 3) MyMTN app 4) Online at mtn.ng 5) Authorized dealers and retailers.",
+      "category": "recharge",
+      "keywords": ["recharge", "airtime", "top up", "load"]
+    },
+    {
+      "id": 4,
+      "question": "I'm experiencing network issues",
+      "answer": "Sorry to hear that! Try these steps: 1) Restart your phone 2) Check if airplane mode is off 3) Ensure you're in a coverage area 4) Remove and reinsert your SIM card. If issues persist, dial 180 for support.",
+      "category": "network",
+      "keywords": ["network", "signal", "connection", "poor", "no service"]
+    },
+    {
+      "id": 5,
+      "question": "How do I activate roaming?",
+      "answer": "To activate international roaming: 1) Dial *123*1*1# 2) Or send 'YES' to 131 3) Ensure your account has sufficient balance. Roaming charges apply based on destination country.",
+      "category": "roaming",
+      "keywords": ["roaming", "international", "travel", "abroad"]
+    },
+    {
+      "id": 6,
+      "question": "How can I port my number to MTN?",
+      "answer": "To port your number to MTN: 1) Send 'PORT' and your phone number to 3232 2) You'll receive a porting code 3) Visit any MTN service center with the code, valid ID, and ₦100 for processing.",
+      "category": "porting",
+      "keywords": ["port", "number", "switch", "transfer", "migrate"]
+    },
+    {
+      "id": 7,
+      "question": "What is MTN Pulse?",
+      "answer": "MTN Pulse is a special tariff plan offering 11k/sec for calls to all networks, 10 kobo per SMS, and 10MB for ₦50. Migrate by dialing *406#. It's perfect for young, active users!",
+      "category": "tariff_plans",
+      "keywords": ["pulse", "tariff", "plan", "rate"]
+    },
+    {
+      "id": 8,
+      "question": "How do I block my SIM if lost or stolen?",
+      "answer": "If your SIM is lost or stolen: 1) Call 180 immediately from another line 2) Visit the nearest MTN service center with valid ID 3) Request SIM blocking and replacement. Act quickly to prevent unauthorized use.",
+      "category": "security",
+      "keywords": ["lost", "stolen", "block", "sim", "security"]
+    }
+  ]
+}
